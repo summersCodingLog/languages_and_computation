@@ -1,0 +1,7 @@
+N:  {S,A,B,C}
+T:  {x,y,z}
+S:  S
+P:  S -> AB
+    A -> Empty | xA | xyA
+    B -> zzC | xyzC | zzB | xyzB
+    C -> Empty

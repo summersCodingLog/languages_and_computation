@@ -1,0 +1,6 @@
+N:  {S,X,Y}
+T:  {a,b}
+S:  S
+P:  S -> aXb
+    X -> aY | bY | aXa | aXb | bXa | bXb
+    Y -> Empty
